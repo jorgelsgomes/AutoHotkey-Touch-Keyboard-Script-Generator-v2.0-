@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Script AutoHotkey para Teclado Virtual",
+  "description": "Configure e gere um script personalizado em AutoHotkey v2 com detecção inteligente de foco (UIA/MSAA) para abrir e fechar o teclado virtual do Windows automaticamente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
